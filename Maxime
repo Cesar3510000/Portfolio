@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maxime | Tour du monde des compétences</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to top, #0a0f2c, #1b1f3b);
+      color: white;
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px 40px;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.1em;
+      max-width: 700px;
+      margin: auto;
+    }
+    nav {
+      text-align: center;
+      margin-top: 30px;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #7ddfff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    section h2 {
+      color: #7ddfff;
+    }
+    .orbit {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .orbit img {
+      max-width: 300px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #111;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tour du monde des compétences</h1>
+    <p>Moi c'est Maxime. Pendant 3 ans de BUT GEA, j’ai voyagé de projet en projet, de découverte en challenge. Ce site retrace ce parcours, étape par étape, jusqu’à mon envol vers le Master CGAO.</p>
+    <nav>
+      <a href="#introduction">Présentation</a>
+      <a href="#etapes">Étapes</a>
+      <a href="#stage">Stage</a>
+      <a href="#skills">Compétences</a>
+      <a href="#futur">Objectifs</a>
+    </nav>
+  </header>
+
+  <section id="introduction">
+    <h2>Départ de mission : qui suis-je ?</h2>
+    <p>Étudiant en BUT GEA, spécialité Contrôle de Gestion et Pilotage de la Performance, j’ai construit mon identité professionnelle autour de l’autonomie, de l’analyse et du travail collectif. Entre outils Excel, projet d’audit et immersion au Japon, chaque étape m’a permis de mieux me connaître.</p>
+  </section>
+
+  <section class="orbit">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Earth_from_Space.jpg" alt="Planète BUT">
+    <p><em>Explorez les orbites de mon parcours</em></p>
+  </section>
+
+  <section id="etapes">
+    <h2>Étapes de mon tour du monde</h2>
+    <p>[À compléter avec : Année 1, Année 2, Japon, etc. — chaque bloc sera une sous-section]</p>
+  </section>
+
+  <section id="stage">
+    <h2>Station orbitale : mon stage</h2>
+    <p>[Texte à venir — introduction du stage d’été, lien avec Picnic Kiosque, objectifs de progression]</p>
+  </section>
+
+  <section id="skills">
+    <h2>Mon sac à dos de compétences</h2>
+    <p>[À compléter avec la grille de compétences — une liste ou des blocs de présentation]</p>
+  </section>
+
+  <section id="futur">
+    <h2>Décollage vers l’avenir</h2>
+    <p>Avec ce tour du monde terminé, je vise désormais de nouveaux horizons. Le Master CGAO représente pour moi la prochaine planète à explorer : plus technique, plus exigeante, mais aussi plus proche de mes ambitions de pilotage et d’analyse stratégique.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Maxime - Portfolio de fin de BUT GEA
+  </footer>
+</body>
+</html>
